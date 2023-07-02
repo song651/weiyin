@@ -1,0 +1,12 @@
+com\myin\mybatis\util\AdminGenerator.class
+com\myin\pojo\Vlog.class
+com\myin\mapper\UsersMapper.class
+com\myin\pojo\MyLikedVlog.class
+com\myin\pojo\Comment.class
+com\myin\pojo\Users.class
+com\myin\mapper\CommentMapper.class
+com\myin\mapper\VlogMapper.class
+com\myin\mapper\FansMapper.class
+com\myin\mapper\MyLikedVlogMapper.class
+com\myin\pojo\Fans.class
+com\myin\my\mapper\MyMapper.class

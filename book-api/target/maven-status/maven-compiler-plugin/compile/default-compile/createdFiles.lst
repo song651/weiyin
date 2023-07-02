@@ -1,0 +1,13 @@
+com\myin\controller\VlogController.class
+com\myin\controller\MsgController.class
+com\myin\Knife4jConfig.class
+com\myin\intercepter\PassportInterceptor.class
+com\myin\controller\HelloController.class
+com\myin\MinIOConfig.class
+com\myin\controller\BaseController.class
+com\myin\InterceptorConfig.class
+com\myin\controller\CommentController.class
+com\myin\Application.class
+com\myin\controller\FansController.class
+com\myin\controller\PassportController.class
+com\myin\controller\UserInfoController.class

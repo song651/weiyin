@@ -1,0 +1,11 @@
+com\myin\service\impl\UserServiceImpl.class
+com\myin\service\impl\VlogServiceImpl.class
+com\myin\service\VlogService.class
+com\myin\service\MsgService.class
+com\myin\service\FansService.class
+com\myin\service\CommentService.class
+com\myin\service\impl\FansServiceImpl.class
+com\myin\service\UserService.class
+com\myin\service\impl\CommentServiceImpl.class
+com\myin\service\impl\MsgServiceImpl.class
+com\myin\base\BaseInfoProperties.class

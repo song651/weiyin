@@ -1,0 +1,15 @@
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\BaseController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\MinIOConfig.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\RabbitMQConfig.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\RabbitMQConsumer.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\FansController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\intercepter\PassportInterceptor.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\Application.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\HelloController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\CommentController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\PassportController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\UserInfoController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\VlogController.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\InterceptorConfig.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\Knife4jConfig.java
+D:\二手\weiyin\book-api\src\main\java\com\myin\controller\MsgController.java

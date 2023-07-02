@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/book-api/book-api.iml" filepath="$PROJECT_DIR$/book-api/book-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-common/book-common.iml" filepath="$PROJECT_DIR$/book-common/book-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-mapper/book-mapper.iml" filepath="$PROJECT_DIR$/book-mapper/book-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-model/book-model.iml" filepath="$PROJECT_DIR$/book-model/book-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-service/book-service.iml" filepath="$PROJECT_DIR$/book-service/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-database-mysql8/mybatis-generator-database.iml" filepath="$PROJECT_DIR$/mybatis-generator-database-mysql8/mybatis-generator-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weiyin.iml" filepath="$PROJECT_DIR$/.idea/weiyin.iml" />
+    </modules>
+  </component>
+</project>

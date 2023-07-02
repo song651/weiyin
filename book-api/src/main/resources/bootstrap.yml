@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: weiyin
+  cloud:
+    nacos:
+      config:
+        server-addr: 10.206.0.5:8848
+        file-extension: yaml

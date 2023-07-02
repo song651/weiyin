@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generator-database" />
+        <module name="book-model" />
+        <module name="book-common" />
+        <module name="book-service" />
+        <module name="book-api" />
+        <module name="book-mapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-api" target="15" />
+      <module name="book-common" target="15" />
+      <module name="book-mapper" target="15" />
+      <module name="book-model" target="15" />
+      <module name="book-service" target="15" />
+      <module name="mybatis-generator-database" target="15" />
+      <module name="myin" target="1.8" />
+      <module name="weiyin" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="book-api" options="-parameters" />
+      <module name="book-common" options="-parameters" />
+      <module name="book-mapper" options="-parameters" />
+      <module name="book-model" options="-parameters" />
+      <module name="book-service" options="-parameters" />
+      <module name="myin" options="" />
+    </option>
+  </component>
+</project>
